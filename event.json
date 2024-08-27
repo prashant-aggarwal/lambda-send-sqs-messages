@@ -1,0 +1,22 @@
+[
+  {
+    "recordId": "1",
+    "priority": "2",
+    "sendReport": "true",
+    "processVerification": {
+      "formatData": "true",
+      "matchData": "true",
+      "validateData": "true",
+      "matchSource": "true",
+      "formatExcel": "true",
+      "calcuateExcel": "true"
+    },
+    "executionStates": {
+      "documentFound": false,
+      "fileDownloaded": false,
+      "processVerified": false,
+      "reportSent": false,
+      "documentUpdated": false
+    }
+  }
+]
